@@ -19,7 +19,6 @@
 - [Database Setup](#-database-setup)
 - [Building from Source](#-building-from-source)
 - [Support](#-support)
-- [License](#-license)
 
 ---
 
