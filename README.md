@@ -4,9 +4,7 @@
 [![Paper](https://img.shields.io/badge/Paper-1.20+-blue?logo=paper)](https://papermc.io/)
 [![Java](https://img.shields.io/badge/Java-21-orange)](https://adoptium.net/)
 [![Version](https://img.shields.io/badge/version-1.1-brightgreen)](https://github.com/toplesssss/SocialBonds/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/toplesssss/SocialBonds/total)](https://github.com/toplesssss/SocialBonds/releases)
-[![Discord](https://img.shields.io/badge/Discord-Join-7289da?logo=discord)](https://discord.gg/yourinvite)
 
 ---
 
