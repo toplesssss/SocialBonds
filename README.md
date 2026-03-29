@@ -187,3 +187,30 @@ If [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) is 
      name: socialbonds
      user: youruser
      password: yourpassword
+3. Restart the server – tables will be created automatically.
+
+All database operations are performed asynchronously to avoid lag.
+
+🛠️ Building from Source
+Clone the repository:
+
+bash
+git clone https://github.com/toplesssss/SocialBonds.git
+cd SocialBonds
+Build with Gradle:
+
+bash
+./gradlew clean shadowJar
+The compiled JAR will be in build/libs/SocialBonds-1.0.jar.
+
+❓ Support
+Issues / Bugs: GitHub Issues
+
+Discord: Join our Discord server for help and updates.
+
+Documentation: Wiki
+
+📄 License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+Made with ❤️ by Toples
