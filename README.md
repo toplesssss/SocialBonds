@@ -57,7 +57,7 @@
 
 ## 📦 Installation
 
-1. Download the latest `SocialBonds-1.0.jar` from the [Releases](https://github.com/toplesssss/SocialBonds/releases) page.
+1. Download the latest `SocialBonds-1.1.jar` from the [Releases](https://github.com/toplesssss/SocialBonds/releases) page.
 2. Place it in your server’s `plugins/` folder.
 3. Restart your server.
 4. Edit `plugins/SocialBonds/config.yml` to set your language and other options.
